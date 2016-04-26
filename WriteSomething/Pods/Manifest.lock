@@ -1,0 +1,21 @@
+PODS:
+  - Masonry (1.0.0)
+  - NVBnbCollectionView (1.0.2)
+  - SDCycleScrollView (1.62):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - Masonry (= 1.0.0)
+  - NVBnbCollectionView
+  - SDCycleScrollView (~> 1.61)
+
+SPEC CHECKSUMS:
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  NVBnbCollectionView: 4a9676e3624db539acafceca3349d187a13a47e9
+  SDCycleScrollView: ae016cb4cc4036523917f146ede6f7b11d408f6a
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+COCOAPODS: 0.39.0
